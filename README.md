@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/Lojiphin/Lojiphin/blob/master/welcome.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/LoJiPhin/LoJiPhin/blob/main/welcome.gif" alt="Welcome!" width="300"/>
 
 </div>
 
